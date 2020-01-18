@@ -1,6 +1,6 @@
 package com.alwaysbaked.noteskeeper.viewmodel;
 
-import android.arch.lifecycle.ViewModel;
+import androidx.lifecycle.ViewModel;
 import android.os.AsyncTask;
 
 import com.alwaysbaked.noteskeeper.data.ListItem;

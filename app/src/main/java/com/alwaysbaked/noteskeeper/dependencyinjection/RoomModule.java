@@ -1,8 +1,8 @@
 package com.alwaysbaked.noteskeeper.dependencyinjection;
 
 import android.app.Application;
-import android.arch.lifecycle.ViewModelProvider;
-import android.arch.persistence.room.Room;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.room.Room;
 
 import com.alwaysbaked.noteskeeper.data.ListItemDao;
 import com.alwaysbaked.noteskeeper.data.ListItemDatabase;

@@ -1,7 +1,7 @@
 package com.alwaysbaked.noteskeeper.list;
 
 import android.os.Bundle;
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.FragmentManager;
 
 import com.alwaysbaked.noteskeeper.R;
 import com.alwaysbaked.noteskeeper.util.BaseActivity;
